@@ -33,4 +33,4 @@ Os joysticks funcionam como potenciômetros, eles geram uma entrada analógica q
 
 ## Subir código para o arduino
 
-"braco_robotico.ino" é o arquivo com o código fonte usado no braço mecânico. Você pode copiar esse arquivo, ou seu conteúdo para dentro de um sketch e então subir para seu Arduino Uno. Se não sabe criar um sketch, consulte a documentação oficial em: https://docs.arduino.cc/software/
+"braco_robotico.ino" é o arquivo com o código fonte usado no braço mecânico. Você pode copiar esse arquivo, ou seu conteúdo, para dentro de um sketch e então subir para seu Arduino Uno. Se não sabe criar um sketch, consulte a documentação oficial em: https://docs.arduino.cc/software/
